@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.Form1.resources
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.Properties.Resources.resources
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\bin\Debug\CarInfosWF.exe.config
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\bin\Debug\CarInfosWF.exe
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\bin\Debug\CarInfosWF.pdb
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.csproj.CopyComplete
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.exe
+C:\Users\user\source\repos\CarInfosWF\CarInfosWF\obj\Debug\CarInfosWF.pdb
